@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="burger">Hamburguesa doble con queso</string>
+    <string name="burgerDescription">Descubre la experiencia suprema en hamburguesas con nuestra Hamburguesa Doble con Queso! En nuestro restaurante, ofrecemos una irresistible combinación de dos jugosas y sabrosas hamburguesas de res, cuidadosamente asadas a la parrilla para garantizar un sabor inigualable. Entre las capas de carne, encontrarás un generoso derroche de queso derretido, que aporta una textura cremosa y un sabor irresistible.</string>
+    <string name="precio">$200.00</string>
+    <string name="comprar">Comprar</string>
+    <string name="compraExitosa">Compra exitosa</string>
+    <string name="compraDetalle">Tu hamburguesa doble con queso ha sido comprada correctamente</string>
+</resources>
